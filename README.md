@@ -1,1 +1,1 @@
-# FoodEx2Vec_scripts
+Scripts used for manipulation of FoodEx2Vec data.
